@@ -1,14 +1,17 @@
 # hume
 
+
+## systems/infra
+- cockpit ws
+- docker
+- traefik
+- jenkins
+- uptime kuma
+- portainer
+
+## application-level
 - wordpress
 - ghost
 - gitea
-- cockpit ws
 - etherpad
-- jenkins
-- logs
-- uptime kuma
-- portainer
 - docuwiki
-- docker
-- traefik
