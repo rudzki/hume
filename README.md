@@ -7,7 +7,7 @@
 - etherpad
 - jenkins
 - logs
-- monitoring (uptime)
+- uptime kuma
 - portainer
 - docuwiki
 - docker
